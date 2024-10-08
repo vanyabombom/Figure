@@ -84,6 +84,7 @@
     <ClCompile Include="Figure.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Rectangle.cpp" />
+    <ClCompile Include="Romb.cpp" />
     <ClCompile Include="Square.cpp" />
     <ClCompile Include="Trapeze.cpp" />
     <ClCompile Include="Triangle.cpp" />
@@ -92,6 +93,7 @@
     <ClInclude Include="Circle.h" />
     <ClInclude Include="Figure.h" />
     <ClInclude Include="Rectangle.h" />
+    <ClInclude Include="Romb.h" />
     <ClInclude Include="Square.h" />
     <ClInclude Include="Trapeze.h" />
     <ClInclude Include="Triangle.h" />
